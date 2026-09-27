@@ -1,2 +1,5 @@
-# realtime-weather
-realtime-weather
+realtime-weather/
+│
+├── index.html
+├── manifest.json
+├── sw.js
